@@ -2,7 +2,7 @@
 
 ### ¿Qué es esto?
 
-Es un script simple que hace scrapping del servicio de meteorología de Florencio Varela y lo mete en un json
+Es un script simple que hace scraping del servicio de meteorología de Florencio Varela y lo mete en un json
 
 ### ¿Para qué hiciste esto?
 
